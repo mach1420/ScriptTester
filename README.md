@@ -1,15 +1,15 @@
-ScriptTester
+**ScriptTester**
 
 Run tests on scripts for BRUTE with public input/output file pairs.
 The software is designed for scripts in Java,Python, C++ and C.
 It supports .in , .out files(also .txt but there maybe some timing issues)
 
-How to start with it :3
+*How to start with it :3*
 
 I.   Clone the repository
-II.  Install requirements.txt (using pip install -r requirements.txt)
+II.  Install requirements.txt - *pip install -r requirements.txt*
 III. Navigate to the testing directory
-IV.  Use command (python main.py path/to/the/script path/to/the/testing/directory)
+IV.  Use command *python main.py path/to/the/script path/to/the/testing/directory*
 (if you are using different linking paths to python, you need to use python3)
 V.   If you want to see the whole output use -f at the end of the command
 
